@@ -1,2 +1,2 @@
 # AlessandraBlucher
-Projeto 1 - Desenvolvimento Colaaborativo Ágil
+Projeto 1 - Desenvolvimento Colaborativo Ágil
